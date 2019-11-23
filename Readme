@@ -1,0 +1,4 @@
+1)Need to install requests package 
+pip3 install requests
+2)Please refer Test_MailShakeAPI.py for API usage
+3)Replace API_KEY with your api key value
